@@ -1,6 +1,6 @@
 const BLOG = {
   title: '堂吉诃德的夏天',
-  author: 'ximenggiao',
+  author: 'ximeng',
   email: '1453236910@qq.com',
   link: 'https://diglog.top',
   newsletter: 'Notionic Weekly',
