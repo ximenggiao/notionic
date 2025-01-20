@@ -1,6 +1,6 @@
 const BLOG = {
   title: '堂吉诃德的夏天',
-  author: '堂吉诃德',
+  author: 'ximenggiao',
   email: '1453236910@qq.com',
   link: 'https://diglog.top',
   newsletter: 'Notionic Weekly',
@@ -29,8 +29,8 @@ const BLOG = {
   ogImageGenerateHost: 'og-zl.vercel.app', // The link to generate OG image, don't end with a slash
   defaultCover: '/cover.jpg',
   socialLink: {
-    twitter: 'https://twitter.com/izuolan',
-    github: 'https://github.com/izuolan',
+    twitter: 'https://twitter.com/ximenggiaoo',
+    github: 'https://github.com/ximenggiao',
     telegram: 'https://t.me/tangjhd'
   },
   seo: {
