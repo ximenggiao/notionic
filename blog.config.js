@@ -34,7 +34,7 @@ const BLOG = {
     telegram: 'https://t.me/tangjhd'
   },
   seo: {
-    keywords: ['Notionic', 'Zuolan', 'Blog'],
+    keywords: ['Notionic', 'ximeng', 'Blog'],
     googleSiteVerification: '' // Remove the value or replace it with your own google site verification code
   },
   notionPageId: process.env.NOTION_PAGE_ID, // DO NOT CHANGE THIS! Edit .env file!
